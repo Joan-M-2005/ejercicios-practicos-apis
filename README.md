@@ -50,7 +50,7 @@ Integración de Flasgger para auto-generar la documentación de la API, permitie
 
 ---
 
-## 🏆 Proyecto Final: TechStore API (Nivel Jefe)
+## Proyecto Final: TechStore API (Nivel Jefe)
 Implementación de un endpoint complejo con transacciones atómicas (`commit` y `rollback`) para procesar órdenes de compra, verificando inventario y descontando stock en tiempo real.
 
 ![imagen2](img/14.png)
