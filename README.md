@@ -44,7 +44,10 @@ Protección de rutas de la API mediante la generación y validación de JSON Web
 ### Ejercicio 5: Documentación Interactiva con Swagger
 Integración de Flasgger para auto-generar la documentación de la API, permitiendo realizar pruebas directas desde el navegador.
 
-![imagen2](img/12.png)
+![imagen2](img/17.png)
+![imagen2](img/18.png)
+![imagen2](img/19.png)
+
 ---
 
 ## 🏆 Proyecto Final: TechStore API (Nivel Jefe)
